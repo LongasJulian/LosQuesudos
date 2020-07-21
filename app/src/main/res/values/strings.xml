@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Los Quesudos</string>
+    <string name="title_informacion">¿Quienes Somos?</string>
+    <string name="title_maps">Donde estamos</string>
+    <string name="title_tiendas">Nuestras Tiendas</string>
+    <string name="mensajeinformacion">Somos un restaurande de comida rápida que ofrecemos perros y hamburguesas con mucho queso mozzarella, pero con un valor agregado:</string>
+    <string name="mensaje2informacion"> calidad en los insumos con los que se preparan.</string>
+    <string name="mensaje3informacion"> ¡Te esperamos pronto!</string>
+
+    <string name="Tienda1titulo"> SEDE POBLADO</string>
+    <string name="Tienda1addres"> Carrera 43 a 9 sur -122 - Mall Square (Al lado Virgen Rosa Mística)</string>
+    <string name="Tienda1horarios"> Domingo a miércoles: 11:00 a.m a 11:00 p.m Jueves: 11:00 a.m a 12:00 p.m Viernes y sábado: 11:00 a.m a 1:00 a.m</string>
+
+    <string name="Tienda2titulo"> SEDE AMÉRICA</string>
+    <string name="Tienda2addres"> Carrera 89 # 40 -01 - Santa Monica</string>
+    <string name="Tienda2horarios"> Domingo a miércoles: 4:00 p.m a 11:00 p.m Jueves a sábado: 4:00 p.m a 12:00 p.m</string>
+
+    <string name="Tienda3titulo"> SEDE LAURELES</string>
+    <string name="Tienda3addres"> Carrera 70 circular 1 – 40 - Al frente UPB</string>
+    <string name="Tienda3horarios">Lunes a domingo: 11:00 a.m a 11:00 p.m</string>
+
+    <string name="Tienda4titulo"> SEDE BELÉN</string>
+    <string name="Tienda4addres"> Avenida 80 · 19 – 03 (Al frente Saludcoop)</string>
+    <string name="Tienda4horarios">Lunes a domingo: 11:00 a.m a 11:00 p.m</string>
+    <string name="nombre">Los Quesudos</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="Tienda5titulo"> SEDE ENVIGADO</string>
+    <string name="Tienda5addres"> Calle 40 sur 46 - 02 - Alcalá </string>
+    <string name="Tienda5horarios">Domingo a miércoles de 4:00 p.m a 11:00 p.m Jueves a sábado de 4:00 p.m a 12:00 p.m</string>
+
+    <string name="Tienda6titulo"> SEDE BELLO</string>
+    <string name="Tienda6addres"> Calle 52 a # 51 - 05 - Al Frente Marco Fidel Suarez </string>
+    <string name="Tienda6horarios">Domingo a jueves: 3:00 p.m a 11:00 p.m Viernes y sábado: 4:00 p.m a 12:00 p.m</string>
+
+    <string name="Tienda7titulo"> SEDE SABANETA </string>
+    <string name="Tienda7addres"> Calle 75 sur 46 D 17 - Calle larga </string>
+    <string name="Tienda7horarios">Domingo a miércoles: 4:00 p.m a 11:00 p.m Jueves a sábado: 3:00 p.m a 11:00 p.m</string>
+
+    <string name="Tienda8titulo"> SEDE ITAGÜI </string>
+    <string name="Tienda8addres"> Calle 47 · 50 A 45 - Parque Brasil </string>
+    <string name="Tienda8horarios">Lunes a jueves: 4:00 p.m a 12:00 p.m Viernes a domingo: 2:00 p.m a 12:00 p.m</string>
+</resources>
